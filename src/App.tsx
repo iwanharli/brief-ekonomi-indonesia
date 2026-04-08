@@ -163,7 +163,7 @@ export default function App() {
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-amber-500 to-amber-600 flex items-center justify-center">
                 <Activity className="w-4 h-4 text-background" />
               </div>
-              <span className="font-bold text-sm tracking-wider">INTEL BRIEF</span>
+              <span className="font-bold text-sm tracking-wider">REPORT</span>
               <span className="text-muted-foreground text-sm">· APR 2026</span>
             </div>
             
@@ -983,7 +983,7 @@ export default function App() {
           
           <div className="relative">
             <h2 className="text-2xl font-bold mb-6 text-center">
-              <span className="gradient-text">✦ KESIMPULAN ANALISA INTEL — 8 APRIL 2026 ✦</span>
+              <span className="gradient-text">✦ KESIMPULAN ANALISA REPORT — 8 APRIL 2026 ✦</span>
             </h2>
             
             <div className="space-y-4 text-muted-foreground max-w-4xl mx-auto">
@@ -1032,7 +1032,7 @@ export default function App() {
       <footer className="border-t bg-card/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
-            <div>INTEL BRIEF — EKONOMI INDONESIA | 8 APRIL 2026</div>
+            <div>REPORT — EKONOMI INDONESIA | 8 APRIL 2026</div>
             <div className="text-center md:text-right">
               SUMBER: KEMENKEU · BI · INDEF · GREAT INSTITUTE · KOMPAS · BISNIS.COM
             </div>
